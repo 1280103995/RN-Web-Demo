@@ -10228,11 +10228,6 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native-easy-floating-button@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/react-native-easy-floating-button/-/react-native-easy-floating-button-0.0.1.tgz#e8fa5d6910cd20200cfd34239daeda778ce5e3ec"
-  integrity sha512-JxaioIeAP92rdY0hdu5oLE1EEzr5Eh95U2DpNJM+NEDovjKUu7kSUP3MQfjWbcRtLdtCyQGmWRMwEvB4fuSFKw==
-
 react-native-gesture-handler@~1.10.3:
   version "1.10.3"
   resolved "https://registry.npmjs.org/react-native-gesture-handler/-/react-native-gesture-handler-1.10.3.tgz#942bbf2963bbf49fa79593600ee9d7b5dab3cfc0"
